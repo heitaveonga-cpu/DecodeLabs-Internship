@@ -17,4 +17,4 @@ This project demonstrates my skills in HTML, CSS, and JavaScript to create a cle
 ## How to Run
 1. Clone the repository
    ```bash
-   git clone https://github.com/heitaveonga-cpu/DecodeLabs-Internship.git
+   git clone https://github.com/heitaveonga-cpu/DecodeLabs-Internship.https://decode-labs-internship-kohl.vercel.app
